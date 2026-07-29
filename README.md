@@ -1,6 +1,12 @@
-# Hi, I'm Oman David 👋
+<h1 align="center">Hi there, I'm Oman 👋</h1>
 
-Software developer · Building for the world
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Software+Engineer;Full-Stack+Developer;Building+for+South+Sudan+%F0%9F%87%B8%F0%9F%87%B8" alt="Typing SVG" />
+  </a>
+</p>
+
+Software developer · Imagine it, I'll build it!
 
 I'm a full-stack developer in training based in Nairobi, Kenya — currently focused on building interactive, data-driven web applications with clean code and real-world impact.
 
@@ -15,10 +21,18 @@ I'm a full-stack developer in training based in Nairobi, Kenya — currently foc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
+
+### [Inventory Management System](https://github.com/OmanDavid/inventory_management_system)
+A full-stack inventory system with a Flask REST API backend (CRUD, OpenFoodFacts external API integration, CLI client) and a React/Vite frontend. Backed by a pytest test suite.
+`Python` `Flask` `React` `REST API` `Pytest`
 
 ### [Wordly — Dictionary SPA](https://github.com/OmanDavid/wordly-spa)
 A single-page dictionary application built with vanilla HTML, CSS, and JavaScript. Search any English word to get definitions, phonetic pronunciation, audio playback, synonyms, and usage examples — all without a page reload. Features dark mode, saved words via localStorage, and full error handling.
@@ -52,13 +66,16 @@ Semantic HTML lab — a structured travel blog page with hero section, image gal
 
 ## 📈 GitHub Stats
 
-![Oman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmanDavid&show_icons=true&theme=default&hide_border=true&count_private=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmanDavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmanDavid&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 ---
 
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-OmanDavid-181717?style=flat-square&logo=github)](https://github.com/OmanDavid)
+
 
 ---
 
