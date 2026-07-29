@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&text=Hello!%20I'm%20Oman&fontColor=22C55E&fontSize=70&fontAlign=50&fontAlignY=50&desc=&animation=fadeIn" width="100%"/>
+  <img src="./hello-banner_1.svg" alt="Hello Banner" />
 </p>
 
 <p align="center">
@@ -69,8 +69,9 @@ Semantic HTML lab — a structured travel blog page with hero section, image gal
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmanDavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmanDavid&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmanDavid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=OmanDavid&theme=tokyonight&hide_border=true" width="48%" />
+  
 </p>
 ---
 
