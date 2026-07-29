@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm Oman 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=text&text=Hello!%20I'm%20Oman&fontColor=22C55E&fontSize=70&fontAlign=50&fontAlignY=50&desc=&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Software+Engineer;Full-Stack+Developer;Building+for+South+Sudan+%F0%9F%87%B8%F0%9F%87%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Software+Engineer;Full-Stack+Developer!" alt="Typing SVG" />
   </a>
 </p>
 
